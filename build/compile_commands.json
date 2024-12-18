@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/luisf/development/engine/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/my_opengl_project.dir/src/main.cpp.o -c /home/luisf/development/engine/src/main.cpp",
+  "file": "/home/luisf/development/engine/src/main.cpp",
+  "output": "CMakeFiles/my_opengl_project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/luisf/development/engine/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/my_opengl_project.dir/src/glad.c.o -c /home/luisf/development/engine/src/glad.c",
+  "file": "/home/luisf/development/engine/src/glad.c",
+  "output": "CMakeFiles/my_opengl_project.dir/src/glad.c.o"
+}
+]
